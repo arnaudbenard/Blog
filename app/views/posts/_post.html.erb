@@ -1,10 +1,10 @@
 <% @posts.each do |post| %>
+<div class="h_bar"></div>
 	<div class="row">
 		<div class="twelve column">
 			<div class="title"><%= post.title %></div>
 			<div class="content"><%= post.content %></div>
-			<%= link_to 'Delete', post, confirm: 'Are you sure?', method: :delete %>
-			<%= post.created_at %>
+	
 	 	</div> 
 	</div>
 <% end %>
