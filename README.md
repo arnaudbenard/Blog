@@ -1,3 +1,3 @@
-# Welcome on my blog
+# Blog template
 
-I've started working on my own blog. The goal of the problem is to hack a minimalist blog with Rails and mongodb. I'll try to add nice features.
+I've build a minimalist blog with Rails and mongodb. Feel free to use it.
